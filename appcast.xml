@@ -7,6 +7,23 @@
     <description>Оновлення Tetra</description>
     <language>uk</language>
 
+    <!-- ✅ NEW VERSION -->
+    <item>
+      <title>Tetra 2.0.4</title>
+      <sparkle:version>204</sparkle:version>
+      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Оновлення до версії 2.0.4.</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v2.0.4/Tetra_Setup_2.0.4.exe"
+        length="193131546"
+        type="application/octet-stream"/>
+    </item>
+
+    <!-- OLD VERSION -->
     <item>
       <title>Tetra 1.0.0</title>
       <sparkle:version>100</sparkle:version>
