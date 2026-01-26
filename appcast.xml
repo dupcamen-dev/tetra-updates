@@ -1,5 +1,5 @@
-<?xml version="2.0.3" encoding="utf-8"?>
-<rss version="2.0.3"
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
@@ -18,7 +18,7 @@
       ]]></description>
 
       <enclosure
-       url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.4.exe"
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.4.exe"
         length="193131546"
         type="application/octet-stream"/>
     </item>
@@ -34,8 +34,8 @@
       ]]></description>
 
       <enclosure
-        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v2.0.4/Tetra_Setup_2.0.3.exe"
-        length=""
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v1.0.0/TetraSetup_1.0.0.exe"
+        length="123456789"
         type="application/octet-stream"/>
     </item>
 
