@@ -1,1 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tetra Updates</title>
+    <description>Оновлення Tetra</description>
+    <language>uk</language>
+
+    <!-- ✅ NEW VERSION -->
+    <item>
+      <title>Tetra 2.0.5</title>
+      <sparkle:version>205</sparkle:version>
+      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Оновлення до версії 2.0.5.</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.5.exe"
+        length="244920137"
+        type="application/octet-stream"/>
+    </item>
+
+    <!-- OLD VERSION -->
+    <item>
+      <title>Tetra 2.0.3</title>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <pubDate>Sun, 25 Jan 2026 20:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Початковий реліз.</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v1.0.0/TetraSetup_1.0.0.exe"
+        length="123456789"
+        type="application/octet-stream"/>
+    </item>
+
+  </channel>
+</rss>
 
