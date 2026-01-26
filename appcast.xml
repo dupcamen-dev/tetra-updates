@@ -14,11 +14,11 @@
       <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
       <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[
-        <p>Оновлення до версії 2.0.4.</p>
+        <p>Оновлення до версії 2.0.0.</p>
       ]]></description>
 
       <enclosure
-        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.4.exe"
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.0.exe"
         length="244920137"
         type="application/octet-stream"/>
     </item>
