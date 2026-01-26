@@ -9,17 +9,17 @@
 
     <!-- ✅ NEW VERSION -->
     <item>
-      <title>Tetra 2.0.5</title>
-      <sparkle:version>2.0.5</sparkle:version>
-      <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+      <title>Tetra 2.0.6</title>
+      <sparkle:version>2.0.6</sparkle:version>
+      <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
       <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[
-        <p>Оновлення до версії 2.0.5.</p>
+        <p>Оновлення до версії 2.0.6.</p>
       ]]></description>
 
       <enclosure
-        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.5.exe"
-        length="245004439"
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra6/Tetra_Setup_2.0.6.exe"
+        length="244955195"
         type="application/octet-stream"/>
     </item>
 
