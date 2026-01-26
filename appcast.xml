@@ -18,7 +18,7 @@
       ]]></description>
 
       <enclosure
-        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v2.0.4/Tetra_Setup_2.0.4.exe"
+       url="https://github.com/dupcamen-dev/tetra-updates/releases/download/Tetra/Tetra_Setup_2.0.4.exe"
         length="193131546"
         type="application/octet-stream"/>
     </item>
@@ -34,8 +34,8 @@
       ]]></description>
 
       <enclosure
-        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v2.0.4/Tetra_Setup_2.0.4.exe"
-        length="193131546"
+        url="https://github.com/dupcamen-dev/tetra-updates/releases/download/v2.0.4/Tetra_Setup_2.0.3.exe"
+        length=""
         type="application/octet-stream"/>
     </item>
 
