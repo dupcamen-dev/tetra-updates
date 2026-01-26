@@ -9,9 +9,9 @@
 
     <!-- ✅ NEW VERSION -->
     <item>
-      <title>Tetra 2.0.4</title>
-      <sparkle:version>204</sparkle:version>
-      <sparkle:shortVersionString>2.0.4</sparkle:shortVersionString>
+      <title>Tetra 2.0.0</title>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
       <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[
         <p>Оновлення до версії 2.0.0.</p>
